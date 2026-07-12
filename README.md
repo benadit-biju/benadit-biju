@@ -1,5 +1,5 @@
 <h1 align="center">Benadit Biju</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate and enthusiastic electronics engineer from India</h3>
 
 <h3 align="left"></h3>
 <p align="left">
